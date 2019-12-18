@@ -33,3 +33,25 @@ workRequest.onreadystatechange = function () {
     }
 };
 workRequest.send(null);
+
+
+
+
+var workTwo = document.getElementById("portfolioItemContainerTwo");
+var workRequestTwo = new XMLHttpRequest();
+
+workRequestTwo.open("GET", "json/itemsTwo.json", true);
+workRequestTwo.onreadystatechange = function () {
+    if (workRequestTwo.readyState === 4) {
+        if (workRequestTwo.status === 200 || workRequestTwo.status == 0) {
+            var html = "";
+            JSON.parse(workRequestTwo.responseText).forEach(function (workTwo) {
+                console.log(workTwo.name);
+                html += "<div class=\"col s12 m6 l6\"><div class=\"card hoverable\"><div class=\"card-image waves-effect waves-block waves-light\"><img class=\"activator\" src=" + workTwo.image + "></div><div class=\"card-content\"><span class=\"card-title activator grey-text text-darken-4\">" + workTwo.name + "<i class=\"material-icons right\">keyboard_arrow_up</i></span><p><a href=" + workTwo.link + " target=\"_blank\">Visit</a></p></div><div class=\"card-reveal\"><span class=\"card-title grey-text text-darken-4\">" + workTwo.name + "<i class=\"material-icons right\">close</i></span><p>" + workTwo.description + "</p></div></div></div>";
+            });
+            workTwo.innerHTML = html;
+        }
+    }
+};
+workRequestTwo.send(null);
+
