@@ -2,7 +2,7 @@
 [
     {
         "name": "GitHub",
-        "color": #0072b1,
+        "color": 'Blue",
         "icon": "github-circle",
         "url": "https://github.com/zgreenberg02"
 	}
