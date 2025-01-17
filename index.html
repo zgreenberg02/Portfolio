@@ -28,13 +28,24 @@
                 <h2 id="heroName" class="center-align">Zach Greenberg</h2>
                 <h4 id="description" class="center-align">Mechanical Engineering Student at Georgia Institute of Technology</h4>
 
-                <div id="socialLinkSection">
-                    <section class="tab">
-                        <div id="socialLinkContent">
-                            <!-- Your social links are dynamically generated from links.json! -->
-                        </div>
-                    </section>
-                </div>
+                <div id="socialLinkContent">
+    			<!-- Your social links are dynamically generated from links.json! -->
+		</div>
+		<script>
+		    fetch('links.json')
+		        .then(response => response.json())
+		        .then(data => {
+		            const socialLinks = data.socialLinks;
+		            const socialLinkContent = document.getElementById('socialLinkContent');
+		            socialLinks.forEach(link => {
+		                const a = document.createElement('a');
+		                a.href = link.url;
+		                a.target = '_blank';
+		                a.innerHTML = `<i class="${link.icon}"></i>`;
+		                socialLinkContent.appendChild(a);
+		            });
+		        });
+		</script>
                 
                 <!-- Replace the email address below with your own -->
 		<a id="contactButton" class="waves-effect waves-grey btn-flat" href="mailto:zgreenberg02@gmail.com">Contact Me</a>
