@@ -16,11 +16,5 @@
         "description": "I designed and built a 10-foot climbing wall for training and improving skills for rock climbing competitions.",
         "image": "images/calendar.PNG",
         "link": "https://github.com/zgreenberg02/ClimbingWall"
-	},
-    {
-        "name": "Board Game",
-        "description": "Project for IB Comp Sci IA 2018-2019: Computer Version of the board game Kingdoms and Knights. This program allows players to play the board game Kingdoms and Knights on the computer. Kingdoms and Knights is a strategy board game created by: Zach Greenberg, Jackson Elder, and Hayden Soelberg",
-        "image": "images/boardGame.png",
-        "link": "https://github.com/zgreenberg02/ZG-BoardGame"
 	}
 ]
