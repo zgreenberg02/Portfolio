@@ -1,7 +1,7 @@
 [
 
 	{
-	  "name": "Wearable Biomechatronics & Motion Capture Suit",
+	  "name": "Wearable Biomechatronics \n& Motion Capture Suit",
 	  "description": "Led mechanical hardware development for a field-deployable motion capture garment and lower-limb assistive devices at EPIC Lab. Designed low-profile SLA sensor enclosures, strain-relieved routing channels, and heavy-duty two-way zipper and Velcro closures to ensure consistent sensor placement and rapid donning. Coordinated mechanical mounting and anatomical joint alignment for active hip, ankle, knee, and back exoskeletons used in clinical rehabilitation and energy-harvesting field testing.",
 	  "image": "images/mocapSuit.jpg",
 	  "link": "https://github.com/zgreenberg02/WearableBiomechatronics"
