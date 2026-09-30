@@ -243,3 +243,7 @@
     box-shadow: 0 0 0 0 rgba(2, 132, 199, 0);
   }
 }
+
+.card-title {
+  white-space: pre-line;
+}
