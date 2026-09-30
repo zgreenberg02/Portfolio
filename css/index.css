@@ -245,5 +245,5 @@
 }
 
 .card-title {
-  white-space: pre-line;
+  white-space: pre-wrap !important;
 }
