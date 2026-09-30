@@ -9,7 +9,14 @@
 
 
 
+
 	
+	{
+	  "name": "Metal Casting & Rapid Prototyping",
+	  "description": "As a Prototyping Instructor and Casting Master at the Georgia Tech Flowers Invention Studio, I direct foundry operations, maintain fabrication equipment, and mentor over 100 students through complex builds. My work spans rapid prototyping across FDM, SLA, and SLS platforms as well as hybrid metal casting using 3D-printed patterns. Beyond additive workflows, I support students across manual metalworking machinery, woodworking tools, and electronics workstations. Across all facilities, I troubleshoot equipment, enforce strict shop safety, and help makers take concepts from CAD to functional hardware.",
+	  "image": "images/casting.jpg",
+	  "link": "https://github.com/zgreenberg02/Prototyping&Casting"
+	},
     {
         "name": "Robotic Submarine",
         "description": "Designed for the Robosub 2025 competition, the robotic submarine is an advanced, underwater autonomous vehicle designed for complex exploration and manipulation tasks.",
