@@ -9,7 +9,7 @@
 	{
 	  "name": "Industrial Automation & PLC Test Bench",
 	  "description": "Engineered automation logic and human-machine interface dashboards as an Automation and Controls Intern at Dennis Group. Programmed Allen-Bradley PLCs using Studio 5000 ladder logic and developed custom Python scripts to integrate third-party field hardware. Designed and animated real-time supervisory screens in Inductive Automation's Ignition platform, supporting electrical panel wiring, troubleshooting communication faults, and commissioning industrial control test benches.",
-	  "image": "images/automation.gif",
+	  "image": "images/automation.jpg",
 	  "link": "https://github.com/zgreenberg02/IndustrialAutomation"
 	},
 
