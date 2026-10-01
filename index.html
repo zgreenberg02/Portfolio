@@ -40,7 +40,7 @@
     			<!-- Your social links are dynamically generated from links.json! -->
 		</div>
 		<script>
-		    fetch('links.json')
+		    fetch('./json/links.json')
 		        .then(response => response.json())
 		        .then(data => {
 		            const socialLinks = data.socialLinks;
