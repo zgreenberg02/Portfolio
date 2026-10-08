@@ -21,7 +21,7 @@
 	{
 	  "name": "Anthropomorphic Robotic Hand",
 	  "description": "Engineered the mechanical architecture of an anthropomorphic robotic hand for prosthetic and rehabilitation research at Georgia Tech. Packaged sub-miniature DC actuators within an anatomically constrained palm envelope, optimized multi-link finger kinematic paths, and designed a two-degree-of-freedom opposable thumb. Validated component tolerances using SLA and FDM prototyping, transitioning the fully assembled mechanical system to clinical trials for functional grasp evaluation with amputee participants.",
-	  "image": "images/limbohand.png",
+	  "image": "images/limboHand.png",
 	  "link": "https://github.com/zgreenberg02/Anthropomorphic-Robotic-Hand"
 	},
 	{
