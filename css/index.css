@@ -286,9 +286,9 @@
 .btn-resume {
   display: inline-block;
   margin-top: 16px;          /* Adds clear separation from the social icons */
-  padding: 4px 14px;         /* Reduces vertical and horizontal box size */
+  padding: 8px 24px;         /* Vertical and horizontal box size */
   font-family: inherit;
-  font-size: 0.75rem;        /* Scales text down to balance with icons */
+  font-size: 1.25rem;        /* Scales text up to balance with icons */
   font-weight: 700;
   letter-spacing: 0.5px;
   text-decoration: none;
