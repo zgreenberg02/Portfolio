@@ -7,30 +7,10 @@
 	  "link": "https://github.com/zgreenberg02/WearableBiomechatronics"
 	},
 	{
-	  "name": "Industrial Automation & PLC Test Bench",
-	  "description": "Engineered automation logic and human-machine interface dashboards as an Automation and Controls Intern at Dennis Group. Programmed Allen-Bradley PLCs using Studio 5000 ladder logic and developed custom Python scripts to integrate third-party field hardware. Designed and animated real-time supervisory screens in Inductive Automation's Ignition platform, supporting electrical panel wiring, troubleshooting communication faults, and commissioning industrial control test benches.",
-	  "image": "images/automation.jpg",
-	  "link": "https://github.com/zgreenberg02/IndustrialAutomation"
-	},
-	{
-	  "name": "Anthropomorphic Robotic Hand",
-	  "description": "Engineered the mechanical architecture of an anthropomorphic robotic hand for prosthetic and rehabilitation research at Georgia Tech. Packaged sub-miniature DC actuators within an anatomically constrained palm envelope, optimized multi-link finger kinematic paths, and designed a two-degree-of-freedom opposable thumb. Validated component tolerances using SLA and FDM prototyping, transitioning the fully assembled mechanical system to clinical trials for functional grasp evaluation with amputee participants.",
-	  "image": "images/limbohand.png",
-	  "link": "https://github.com/zgreenberg02/Anthropomorphic-Robotic-Hand"
-	},
-	
-	
-	{
 	  "name": "Metal Casting & Rapid Prototyping",
 	  "description": "As a Prototyping Instructor and Casting Master at the Georgia Tech Flowers Invention Studio, I direct foundry operations, maintain fabrication equipment, and mentor over 100 students through complex builds. My work spans rapid prototyping across FDM, SLA, and SLS platforms as well as hybrid metal casting using 3D-printed patterns. Beyond additive workflows, I support students across manual metalworking machinery, woodworking tools, and electronics workstations. Across all facilities, I troubleshoot equipment, enforce strict shop safety, and help makers take concepts from CAD to functional hardware.",
 	  "image": "images/prototyping.png",
 	  "link": "https://github.com/zgreenberg02/Prototyping-Casting"
-	},
-    {
-        "name": "Robotic Submarine",
-        "description": "Designed for the Robosub 2025 competition, the robotic submarine is an advanced, underwater autonomous vehicle designed for complex exploration and manipulation tasks.",
-        "image": "images/RoboticSubmarine.jpg",
-        "link": "https://github.com/zgreenberg02/RoboticSubmarine"
 	},
     {
         "name": "Timer System",
@@ -38,6 +18,25 @@
         "image": "images/TimerSystem.jpg",
         "link": "https://github.com/zgreenberg02/TimerSystemProject"
 	},
+	{
+	  "name": "Anthropomorphic Robotic Hand",
+	  "description": "Engineered the mechanical architecture of an anthropomorphic robotic hand for prosthetic and rehabilitation research at Georgia Tech. Packaged sub-miniature DC actuators within an anatomically constrained palm envelope, optimized multi-link finger kinematic paths, and designed a two-degree-of-freedom opposable thumb. Validated component tolerances using SLA and FDM prototyping, transitioning the fully assembled mechanical system to clinical trials for functional grasp evaluation with amputee participants.",
+	  "image": "images/limbohand.png",
+	  "link": "https://github.com/zgreenberg02/Anthropomorphic-Robotic-Hand"
+	},
+	{
+	  "name": "Industrial Automation & PLC Test Bench",
+	  "description": "Engineered automation logic and human-machine interface dashboards as an Automation and Controls Intern at Dennis Group. Programmed Allen-Bradley PLCs using Studio 5000 ladder logic and developed custom Python scripts to integrate third-party field hardware. Designed and animated real-time supervisory screens in Inductive Automation's Ignition platform, supporting electrical panel wiring, troubleshooting communication faults, and commissioning industrial control test benches.",
+	  "image": "images/automation.jpg",
+	  "link": "https://github.com/zgreenberg02/IndustrialAutomation"
+	},
+    {
+        "name": "Robotic Submarine",
+        "description": "Designed for the Robosub 2025 competition, the robotic submarine is an advanced, underwater autonomous vehicle designed for complex exploration and manipulation tasks.",
+        "image": "images/RoboticSubmarine.jpg",
+        "link": "https://github.com/zgreenberg02/RoboticSubmarine"
+	},
+
     {
         "name": "Climbing Wall",
         "description": "I designed and built a 10-foot climbing wall for training and improving skills for rock climbing competitions.",
