@@ -260,3 +260,25 @@
 .card-title {
   white-space: pre-wrap !important;
 }
+
+
+
+#portfolioItemContainer {
+  column-count: 2;
+  column-gap: 1.5rem;
+  display: block;
+}
+
+#portfolioItemContainer > .col {
+  width: 100% !important;
+  margin: 0 0 1.5rem 0 !important;
+  float: none !important;
+  break-inside: avoid;
+  display: inline-block;
+}
+
+@media only screen and (max-width: 992px) {
+  #portfolioItemContainer {
+    column-count: 1;
+  }
+}
