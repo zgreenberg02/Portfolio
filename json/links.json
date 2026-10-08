@@ -13,7 +13,7 @@
         {
             "name": "Gmail",
             "url": "mailto:zgreenberg02@gmail.com",
-            "icon": "fab fa-gmail"
+            "icon": "fas fa-envelope"
         },
     ]
 }
