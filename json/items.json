@@ -35,12 +35,5 @@
         "description": "Designed for the Robosub 2025 competition, the robotic submarine is an advanced, underwater autonomous vehicle designed for complex exploration and manipulation tasks.",
         "image": "images/RoboticSubmarine.jpg",
         "link": "https://github.com/zgreenberg02/RoboticSubmarine"
-	},
-
-    {
-        "name": "Climbing Wall",
-        "description": "I designed and built a 10-foot climbing wall for training and improving skills for rock climbing competitions.",
-        "image": "images/ClimbingWallCapture.jpg",
-        "link": "https://github.com/zgreenberg02/ClimbingWall"
 	}
 ]
